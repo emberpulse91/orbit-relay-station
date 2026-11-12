@@ -1,0 +1,59 @@
+{
+  "assets": [
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Codex-generated bg for OrbitRelayStation"
+    },
+    {
+      "name": "button_rect",
+      "type": "button",
+      "prompt": "Codex-generated button for OrbitRelayStation"
+    },
+    {
+      "name": "button_round",
+      "type": "button",
+      "prompt": "Codex-generated button for OrbitRelayStation"
+    },
+    {
+      "name": "icon_home",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for OrbitRelayStation"
+    },
+    {
+      "name": "icon_pause",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for OrbitRelayStation"
+    },
+    {
+      "name": "logo",
+      "type": "icon",
+      "prompt": "Codex-generated icon for OrbitRelayStation"
+    },
+    {
+      "name": "sprite_1",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for OrbitRelayStation"
+    },
+    {
+      "name": "sprite_2",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for OrbitRelayStation"
+    },
+    {
+      "name": "sprite_3",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for OrbitRelayStation"
+    },
+    {
+      "name": "sprite_4",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for OrbitRelayStation"
+    },
+    {
+      "name": "sprite_5",
+      "type": "sprite",
+      "prompt": "Codex-generated sprite for OrbitRelayStation"
+    }
+  ]
+}
